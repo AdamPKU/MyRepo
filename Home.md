@@ -4,7 +4,8 @@ Sistem Informasi Menejemen Rumah Sakit KhanzaHMS atau disingkat SIMRS Khanza ada
 
 1. RS Amal Sehat, Slogohimo, Wonogiri, Jawa Tengah
 2. RS Kia Sadewa, Babarsari Yogyakarta
-3. RS Permata Medika Kebumen, Jawa Tengah 4. RS Islam Purwokerto, Jawa Tengah
+3. RS Permata Medika Kebumen, Jawa Tengah 
+4. RS Islam Purwokerto, Jawa Tengah
 5. RS Mutiara Hati, Pring Sewu, Lampung
 6. RS Pelita Insani Martapura, Kalimantan Selatan
 7. Klinik Azizah Kota Metro, Lampung
@@ -35,7 +36,9 @@ Sistem Informasi Menejemen Rumah Sakit KhanzaHMS atau disingkat SIMRS Khanza ada
 32. RS Bhayangkara, Nganjuk Jawa Timur
 33. RS UNS, Surakarta, Jawa Tengah
 34. RSUD KLU, Lombok, NTB
-35. dll
+35. RSI Magelang, Jawa Tengah
+36. RSI Al Ihklas, Pemalang, Jawa Tengah
+37. dll
 
 Software ini dikembangkan sejak tahun 2010 di RS Sadewa Yogyakarta, kemudian tahun 2013 dirilis sebagai aplikasi free dan mulai digunakan di banyak rumah sakit. Kenapa bersifat free? Karena aplikasi ini sebagai solidaritas karena seringnya rumah sakit gagal implementasi dalam penggunaan SIMRS entah karena faktor vendor atau faktor orang IT dalam rumah sakit sendiri. Untuk itu para pengguna SIMRS ini memiliki forum sendiri di Social Media Telegram khusus Rumah Sakit yang sudah menggunakan, dan untuk orang umum/awam yang ingin belajar bisa ke forum SIMRS KhanzaHMS di facebook. Adanya forum sebagai wadah memudahkan dalam proses implementasi dan tukar informasi maupun pengalaman selama proses penggunaan SIMRS.
 
