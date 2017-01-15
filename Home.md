@@ -68,21 +68,14 @@ Update 29-05-2016
 **Cara Install :**
 1. Install dulu JRE(Sesuai dengan versi windows 64/32 bit)
 2. Install xamp
-3. Import Database, Silahkan Klik HeidiSQl, Pilih New, Pilih Ok, Pilih Connect. Silahkan buat database sik melalui menu Tools ->Create
-database pada HeidiSQL, klik sik disebelah kiri. Lakukan import data melalui menu Import ->Load SQL File
-kemudian ambil file sik.sql, Klik tanda segitiga ke kanan/tombol execute, jika tidak bisa silahkan buka sik.sql
-dengan menggunakan notepad, copykan semua isinya ke dalam sql pada Heidi kemudian tekan execute
-4. Taruh folder webapps ke dalam wamp/www jika menggunakan wamp atau xamp/htdocs kalau menggunakan xamp.
-Silahkan pakai xamp yang kami sertakan
+3. Import Database, Silahkan Klik HeidiSQl, Pilih New, Pilih Ok, Pilih Connect. Silahkan buat database sik melalui menu Tools ->Create database pada HeidiSQL, klik sik disebelah kiri. Lakukan import data melalui menu Import ->Load SQL File kemudian ambil file sik.sql, Klik tanda segitiga ke kanan/tombol execute, jika tidak bisa silahkan buka sik.sql dengan menggunakan notepad, copykan semua isinya ke dalam sql pada Heidi kemudian tekan execute
+4. Taruh folder webapps ke dalam wamp/www jika menggunakan wamp atau xamp/htdocs kalau menggunakan xamp. Silahkan pakai xamp yang kami sertakan
 5. Klik 2 x Aplikasi.bat, Untuk menjalankan Software Khanza HMS
 6. Klik 2 x AntrianLoket.bat, Untuk menjalankan Software Antrian Loket
 7. Klik 2 x AntrianPoli.bat, Untuk menjalankan Software Antrian Poli
-8. Buatkan shortcut Aplikasi.bat dan taruh di desktop jika ingin kemudahan mengakses aplikasi Khanza HMS, jika tidak berhasil
-silahkan klik 2x pada khanza.jar
-9. Pengaturan Client Server ada di setting/database.xml dan setting/database.ini, silahkan ganti localhost dengan IP Server,
-dengan terlebih dahulu mengatur privilages di database server
-10. Jika ingin menjalankan aplikasi presensi via finger print, silahkan gunakan hardware digital persona U Are U 4500
-set/atur konfigurasinya di setting/database.ini untuk device, varification, activation, workinginbackground sesuai dengan bawaan dari mesin finger print yang dibeli. Jangan lupa menginstall setting/FlexCodeSDK.exe dan setting/Driver untuk mengaktifkan finger print tersebut. Silahkan klik presensi.exe untuk menjalankan aplikasi presensi
+8. Buatkan shortcut Aplikasi.bat dan taruh di desktop jika ingin kemudahan mengakses aplikasi Khanza HMS, jika tidak berhasil silahkan klik 2x pada khanza.jar
+9. Pengaturan Client Server ada di setting/database.xml dan setting/database.ini, silahkan ganti localhost dengan IP Server, dengan terlebih dahulu mengatur privilages di database server
+10. Jika ingin menjalankan aplikasi presensi via finger print, silahkan gunakan hardware digital persona U Are U 4500. Set/atur konfigurasinya di setting/database.ini untuk device, varification, activation, workinginbackground sesuai dengan bawaan dari mesin finger print yang dibeli. Jangan lupa menginstall setting/FlexCodeSDK.exe dan setting/Driver untuk mengaktifkan finger print tersebut. Silahkan klik presensi.exe untuk menjalankan aplikasi presensi
 
 **Edukasi & Panduan Penggunaan :**
 Chanel di youtube untuk belajar, silahkan ke link https://www.youtube.com/channel/UC6318L_Z_lXVwuQe331C2iw
