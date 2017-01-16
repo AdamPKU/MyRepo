@@ -38,7 +38,9 @@ Sistem Informasi Menejemen Rumah Sakit KhanzaHMS atau disingkat SIMRS Khanza ada
 34. RSUD KLU, Lombok, NTB
 35. RSI Magelang, Jawa Tengah
 36. RSI Al Ihklas, Pemalang, Jawa Tengah
-37. dll
+37. RS Mutiara Bunda Cilegon, Banten
+38. RS Pertama Serdang Serang, Banten
+39. dll
 
 Software ini dikembangkan sejak tahun 2010 di RS Sadewa Yogyakarta, kemudian tahun 2013 dirilis sebagai aplikasi free dan mulai digunakan di banyak rumah sakit. Kenapa bersifat free? Karena aplikasi ini sebagai solidaritas karena seringnya rumah sakit gagal implementasi dalam penggunaan SIMRS entah karena faktor vendor atau faktor orang IT dalam rumah sakit sendiri. Untuk itu para pengguna SIMRS ini memiliki forum sendiri di Social Media Telegram khusus Rumah Sakit yang sudah menggunakan, dan untuk orang umum/awam yang ingin belajar bisa ke forum SIMRS KhanzaHMS di facebook. Adanya forum sebagai wadah memudahkan dalam proses implementasi dan tukar informasi maupun pengalaman selama proses penggunaan SIMRS.
 
@@ -82,4 +84,3 @@ Update 29-05-2016
 
 **Edukasi & Panduan Penggunaan :**
 Chanel di youtube untuk belajar, silahkan ke link https://www.youtube.com/channel/UC6318L_Z_lXVwuQe331C2iw
-
