@@ -1,8 +1,12 @@
 Dokumen ini berisi tentang panduan teknis seputar instalasi, upgrade, administrasi dan penggunaan SIMRS Khanza.
 # Gambaran Umum Software SIMRS Khanza
 Software SIMRS Khanza merupakan aplikasi dengan model client-server. Aplikasi client SIMRS Khanza dibangun menggunakan bahasa Java.  Aplikasi client ini bersifat cross-platform sehingga dapat digunakan di Windows, Linux maupun macOS.  Aplikasi server merupakan webapps berbasis PHP dengan dukungan database MySQL atau yang setara (MariaDB, Percona). Webserver yang dianjurkan adalah Apache.
+## Tampilan Client SIMRS Khanza di Windows 10
 ![client on windows](images/main-windows.png)
-![client on windows](images/main-windows.png)
+## Tampilan Client SIMRS Khanza di Linux
+![client on linux](images/main-linux.png)
+## Tamilan Client SIMRS Khanza di macOS
+![client on macos](images/main-macos.png)
 
 
 Dokumentasi ini akan dibagi ke dalam tiga panduan, yaitu Panduan Instalasi dan Upgrade, Panduan Administrasi dan Panduan Pengguna.
