@@ -32,13 +32,13 @@ Walaupun menggunakan model client-server, SIMRS Khanza dapat diinstal pada satu 
 2. Anda dapat menggunakan bundle software berisi webserver Apache, MySQL dan PHP, seperti [XAMPP](https://www.apachefriends.org/download.html) yang tersedia untuk Windows, Linux maupun macOS.  Atau, Anda juga dapat menginstalnya sendiri satu per satu sesuai kebutuhan Anda.  Kami serahkan pilihan ini pada Anda.  Gunakan bundle yang sesuai dengan arsitektur sistem operasi Anda.
 3. Bila webserver Apache, MySQL dan PHP telah terkonfigurasi dengan baik, Anda dapat melanjutkan ke langkah berikutnya.
 4. Mempersiapkan database
-  1. Unduh sik.sql yang ada di [Github SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza)
-  2. Buat database sik
-  3. Impor sik.sql ke dalam database sik
+  1. Unduh `sik.sql` yang ada di [Github SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza)
+  2. Buat database `sik`
+  3. Impor `sik.sql` ke dalam database `sik`
   4. Tunggu hingga proses impor selesai
 5. Mempersiapkan webapps
-  1. Unduh folder webapps yang ada di [Github SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza)
-  2. Salin folder webapps beserta isinya ke dalam folder publik webserver Anda
+  1. Unduh folder `webapps` yang ada di [Github SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza)
+  2. Salin folder `webapps` beserta isinya ke dalam folder publik webserver Anda
 6.  Pengaturan database
   [dalam proses]
 7.  Pengaturan webapps
