@@ -1,4 +1,4 @@
-Tambahan menu baru di [N] Analisa, Dashboard & Info Grafik, menu Grafik Batal Periksa Per Tahun<br>
+Tambahan menu baru di [N] Analisa, Dashboard & Info Grafik. Menu Grafik Batal Periksa Per Tahun<br>
 
 ![](https://raw.githubusercontent.com/mas-elkhanza/coba/master/Screenshot%20from%202017-12-19%2020-25-30.png)
 
