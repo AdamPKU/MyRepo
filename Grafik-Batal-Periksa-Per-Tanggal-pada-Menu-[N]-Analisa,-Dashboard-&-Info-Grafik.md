@@ -7,8 +7,8 @@ Tujuan dibuat : Untuk menganalisa banyaknya pasien yang membatalkan periksa dala
 Panduan Pengunaan :
 
 1. Setelah login, klik pada toolbar Menu,
-2. Pada combobox Menu pilih [N] Analisa, Dashboard & Info Grafik, menu Grafik Batal Periksa Per Bulan
-3. Klik menu "Batal Periksa Per Bulan"
+2. Pada combobox Menu pilih [N] Analisa, Dashboard & Info Grafik, menu Grafik Batal Periksa Per Tanggal
+3. Klik menu "Batal Periksa Per Tanggal"
 4. Pilih tanggal periode pencarian, klik model grafik yang diinginkan. Pilih Plot, Batang, Pie.
 
 ![](https://raw.githubusercontent.com/mas-elkhanza/coba/master/Screenshot%20from%202017-12-21%2021-18-45.png)
