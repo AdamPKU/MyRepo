@@ -1,6 +1,3 @@
-Perlindungan Hukum :
-
-![](https://github.com/mas-elkhanza/coba/blob/master/Haki.jpeg)
 
 **Sejarah Pengembangan :**
 
@@ -88,3 +85,7 @@ Update 29-05-2016
 
 **Edukasi & Panduan Penggunaan :**
 Chanel di youtube untuk belajar, silahkan ke link https://www.youtube.com/channel/UC6318L_Z_lXVwuQe331C2iw
+
+Perlindungan Hukum :
+Untuk menjaga agar source code/aplikasi ini dimanfaatkan secara benar, maka saya sebagai pembuat aplikasi sudah mencatatkannya di dirjen HAKI. Bagi yang menyalahgunakan aplikasi dan source code ini akan saya tuntut secara hukum.
+![](https://github.com/mas-elkhanza/coba/blob/master/Haki.jpeg)
