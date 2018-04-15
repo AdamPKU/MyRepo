@@ -1,3 +1,7 @@
+Perlindungan Hukum :
+
+![](https://github.com/mas-elkhanza/coba/blob/master/Haki.jpeg)
+
 **Sejarah Pengembangan :**
 
 Sistem Informasi Menejemen Rumah Sakit KhanzaHMS atau disingkat SIMRS Khanza adalah software rumah sakit, software rekam medis, rekam medis elektronik yang bersifat 100 % free/gratis dan sudah digunakan di lebih dari 100 rumah sakit di indonesia. Antara lain :
