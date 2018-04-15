@@ -58,18 +58,7 @@ Kalau free, darimana dana pengembangan SIMRS ini? Software ini free karena penge
 Dilarang keras memperjual belikan aplikasi ini/mengambil keuntungan dari aplikasi ini, boleh digunakan untuk kebutuhan rumah sakit/klinik/puskesmas.
 
 **Alamat download aplikasi :**
-Update 06-07-2015
-   Untuk Os Linux http://www.4shared.com/zip/9xiP9Sf6ba/KhanzaHMSLinux060715.html?
-   Untuk Os Windows http://www.4shared.com/zip/TF7S6Ow5ba/KhanzaHMSWindows060715.html?
-Update 28-09-2015
-   Untuk OS Linux http://www.4shared.com/zip/d0osjfd7ce/KhanzaHMSLinux280915.html?
-   Untuk OS Windows http://www.4shared.com/zip/NqDRzkjpce/KhanzaHMSWindows280915.html
-Update 08-02-2016
-   Untuk OS Windows https://drive.google.com/file/d/0B8faRW21lqdKWVFfTDR2ZVQ5dVE/view?usp=sharing
-   Untuk OS Linux https://drive.google.com/file/d/0B8faRW21lqdKMXFFWmltRXgtQkU/view?usp=sharing
-Update 29-05-2016
-   Untuk OS Windows https://drive.google.com/file/d/0B8faRW21lqdKdkNwSkxaWTZTNWs/view?usp=sharing
-   Untuk OS Linux https://drive.google.com/file/d/0B8faRW21lqdKRXNCZElPRjhqaEE/view?usp=sharing
+https://drive.google.com/drive/folders/0ByL--Jg6bdF7RG1NSlVTT2ZPODg
 
 **Cara Install :**
 1. Install dulu JRE(Sesuai dengan versi windows 64/32 bit)
