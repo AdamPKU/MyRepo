@@ -58,6 +58,7 @@ Kalau free, darimana dana pengembangan SIMRS ini? Software ini free karena penge
 Dilarang keras memperjual belikan aplikasi ini/mengambil keuntungan dari aplikasi ini, boleh digunakan untuk kebutuhan rumah sakit/klinik/puskesmas.
 
 **Alamat download aplikasi :**
+
 https://drive.google.com/drive/folders/0ByL--Jg6bdF7RG1NSlVTT2ZPODg
 
 **Cara Install :**
