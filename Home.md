@@ -81,7 +81,9 @@ Chanel di youtube untuk belajar, silahkan ke link https://www.youtube.com/channe
 Untuk menjaga agar source code/aplikasi ini dimanfaatkan secara benar, maka saya sebagai pembuat aplikasi sudah mencatatkannya di dirjen HAKI. Bagi yang menyalahgunakan aplikasi dan source code ini akan saya tuntut secara hukum.
 ![](https://github.com/mas-elkhanza/coba/blob/master/Haki.jpeg)
 
+
 **Paklaring/Surat Keterangan Penggunaan SIMRS :**
+Berikut adalah sebagian paklaring/surat keterang menggunakan SIMRS Khanza dari beberapa RS pengguna
 
 ![](https://github.com/mas-elkhanza/coba/blob/master/photo6253539041324673030.jpg)
 
