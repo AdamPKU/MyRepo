@@ -83,6 +83,7 @@ Untuk menjaga agar source code/aplikasi ini dimanfaatkan secara benar, maka saya
 
 
 **Paklaring/Surat Keterangan Penggunaan SIMRS :**
+
 Berikut adalah sebagian paklaring/surat keterang menggunakan SIMRS Khanza dari beberapa RS pengguna
 
 ![](https://github.com/mas-elkhanza/coba/blob/master/photo6253539041324673030.jpg)
