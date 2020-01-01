@@ -19,11 +19,11 @@ Walaupun menggunakan model client-server, SIMRS Khanza dapat diinstal pada satu 
 1. Komputer dengan sistem operasi Windows, Linux maupun macOS 32-bit maupun 64-bit.
 2. Webserver Apache dengan dukungan php dan mysql
 3. Database server MySQL, MariaDB atau Percona
-4. PHP versi 5.6 (PHP versi 7.x belum didukung)
+4. PHP versi 7.x
 
 ### Client
 1. Komputer dengan sistem operasi Windows, Linux maupun macOS 32-bit maupun 64-bit.
-2. Java JRE versi 8.x sesuai sistem operasi
+2. Java JRE sesuai sistem operasi
 
 ## Instalasi SIMRS Khanza
 
