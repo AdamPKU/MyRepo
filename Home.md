@@ -1,7 +1,7 @@
 
 **Sejarah Pengembangan :**
 
-Sistem Informasi Menejemen Rumah Sakit KhanzaHMS atau disingkat SIMRS Khanza adalah software rumah sakit, software rekam medis, rekam medis elektronik yang bersifat 100 % free/gratis dan sudah digunakan di lebih dari 800 rumah sakit di indonesia. Antara lain :
+Sistem Informasi Menejemen Rumah Sakit KhanzaHMS atau disingkat SIMRS Khanza adalah software rumah sakit, software rekam medis, rekam medis elektronik yang bersifat 100 % free/gratis dan sudah digunakan di lebih dari 1500 rumah sakit di indonesia. Antara lain :
 
 1. RS Amal Sehat, Slogohimo, Wonogiri, Jawa Tengah
 2. RS Kia Sadewa, Babarsari Yogyakarta
@@ -44,6 +44,10 @@ Sistem Informasi Menejemen Rumah Sakit KhanzaHMS atau disingkat SIMRS Khanza ada
 39. dll
 
 Software ini dikembangkan sejak tahun 2010 di RS Sadewa Yogyakarta, kemudian tahun 2013 dirilis sebagai aplikasi free dan mulai digunakan di banyak rumah sakit. Kenapa bersifat free? Karena aplikasi ini sebagai solidaritas karena seringnya rumah sakit gagal implementasi dalam penggunaan SIMRS entah karena faktor vendor atau faktor orang IT dalam rumah sakit sendiri. Untuk itu para pengguna SIMRS ini memiliki forum sendiri di Social Media Telegram khusus Rumah Sakit yang sudah menggunakan, dan untuk orang umum/awam yang ingin belajar bisa ke forum SIMRS KhanzaHMS di facebook. Adanya forum sebagai wadah memudahkan dalam proses implementasi dan tukar informasi maupun pengalaman selama proses penggunaan SIMRS.
+
+**Penghargaan :**
+Alhamdulillah, segala puji bagi Alloh SWT. SIMRS/SIMKES Khanza telah mendapatkan penghargaan dari Komisi Akreditasi Rumah Sakit atau disingkat KARS.
+![](https://github.com/mas-elkhanza/coba/blob/master/penghargaan.jpg)
 
 **Evaluasi Aplikasi :**
 SIMRS KhanzaHMS sendiri selalu dievaluasi sesuai kebutuhan user dalam hal ini Rumah Sakit, Klinik, Puskesmas maupun instansi2 kesehatan yang lain. Dan biasanya setiap 3 bulan sekali ada update fitur baru. Dan untuk pengembangan sendiri selalu dilakukan berbagai penelitian baik dari sisi user interface, kemudahan, fitur, interaksi dengan user, performa, proses bisnis rumah sakit, koneksi dengan berbagai hardware yang dibutuhkan dll yang semua itu ditujukan untuk perkembangan SIMRS KhanzaHMS agar bisa menjadi STANDAR NASIONAL Software Rumah Sakit yang bersifat free.
